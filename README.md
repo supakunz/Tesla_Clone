@@ -22,7 +22,7 @@ Tesla Website Clone created with ReactJs,React-router and Bootstrap CSS.
       <li>Responsive with all devices</li>
   </ul>
 
-## 🧭 Technologyies Used
+## 🧭 Tech Stack
   
   <ul>
       <li>ReactJS</li>
